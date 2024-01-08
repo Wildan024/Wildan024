@@ -17,6 +17,9 @@
     filter: drop-shadow(1px 1px 1px rgba (0,0,0,0.9));
 }
 
+.compressor img{
+    padding-top: 10px;
+}
 
 
 section { 
@@ -27,3 +30,6 @@ footer {
     padding: 1px 0;
 }
 
+.paragraph {
+    text-align: justify;
+}
